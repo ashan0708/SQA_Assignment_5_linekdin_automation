@@ -15,8 +15,8 @@ import java.util.List;
 
 public class LoginTest extends BaseTest {
 
-    private final String VALID_EMAIL = "adeeshadilmira2@gmail.com";
-    private final String VALID_PASSWORD = "Adeesha@2003";
+    private final String VALID_EMAIL = "ashanmanusha182@gmail.com";
+    private final String VALID_PASSWORD = "Manushaashan@20010708";
 
     private WebElement findEmailInput() {
         return wait.until(driver -> {
